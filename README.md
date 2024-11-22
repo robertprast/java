@@ -8,6 +8,7 @@ and developers working in this domain. Java and other JVM languages, such as Sca
 frequently used in small-to-large enterprises all over the world, which makes TensorFlow a strategic 
 choice for adopting machine learning at a large scale.
 
+
 ## This Repository
 
 In the early days, the Java language bindings for TensorFlow were hosted in the [main repository](https://github.com/tensorflow/tensorflow)
